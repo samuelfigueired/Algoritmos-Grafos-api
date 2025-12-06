@@ -1,0 +1,6 @@
+@GraphAnalyzer.Api_HostAddress = http://localhost:5070
+
+GET {{GraphAnalyzer.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
