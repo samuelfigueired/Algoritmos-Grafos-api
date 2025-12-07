@@ -171,9 +171,6 @@ Pressione `Ctrl+C` no terminal para encerrar a API.
 - [.NET 8 Documentation](https://docs.microsoft.com/dotnet/)
 - [ASP.NET Core](https://docs.microsoft.com/aspnet/core/)
 
-## 👨‍💻 Autor
-
-Samuel Figueired - [GitHub](https://github.com/samuelfigueired)
 
 ## 📄 Licença
 
